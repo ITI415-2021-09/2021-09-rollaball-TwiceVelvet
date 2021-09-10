@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Setting up the play area.unity
+    guid: 6d7c57a6ab4c77e4cb82852153a8391e
   m_configObjects: {}
